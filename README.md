@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **MLOps and Data engineering**
 
-- 👯 I’m looking to collaborate on **Machine learning and Data engineering projects **
+- 👯 I’m looking to collaborate on **Machine learning and Data engineering projects**
 
 - 👨‍💻 All of my projects are available at [https://felipefe20.github.io/Portfolio/](https://felipefe20.github.io/Portfolio/)
 
 - 💬 Ask me about **Language learning, sports (Football or Soccer), movies, and everything you're curious about data**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/oscar-felipe-fernandez/](https://www.linkedin.com/in/oscar-felipe-fernandez/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/oscar-felipe-fernandez/](https://www.linkedin.com/in/ofelipefernandez/)
 
 - ⚡ Fun fact **I have a bachelor's in Mechanical Engineering but I'm not into cars, I think that's funny**
 
